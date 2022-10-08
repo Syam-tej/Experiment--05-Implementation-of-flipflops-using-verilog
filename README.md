@@ -102,7 +102,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-```
+
 ### 1.Using nand gates and wires construct sr flip flop.
 
 ### 2.Repeat same steps to construct JK,D,T flipflops.
@@ -111,14 +111,13 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 ### 4.end the program.
 
-```
 
 ### PROGRAM 
-```
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: P.SYAM TEJ
-RegisterNumber:  212221240056
-```
+### Developed by: P.SYAM TEJ
+### RegisterNumber:  212221240056
+
 ## Program 1:
 ```
 module flipflop(S,R,clock,Q,Qbar);
