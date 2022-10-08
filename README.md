@@ -101,7 +101,7 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-### Procedure
+### Procedure :
 
 ### 1.Using nand gates and wires construct sr flip flop.
 
@@ -112,7 +112,7 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### 4.end the program.
 
 
-### PROGRAM 
+### PROGRAM :
 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 ### Developed by: P.SYAM TEJ
